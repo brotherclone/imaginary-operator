@@ -1,0 +1,14 @@
+---
+- id: 1
+  msg: You have reached the imaginary foundation. For a company directory, press one. For research applications, press two. For directions and hours of operation, press three. To repeat this menu, press zero.
+- id: 2
+  msg: Use the keypad to spell the last name of the person you are trying to reach.
+- id: 3
+  msg: Please speak your research area's primary subject matter.
+- id: 4
+  msg: For directions, press one. For hours of operation press two.
+- id: 5
+  msg: I am sorry. This isn't the way it was supposed to be.
+- id: 6
+  audio: drifting.mp3
+
